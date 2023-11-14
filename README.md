@@ -1,4 +1,5 @@
 # Digital Marketing JavaScript
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 This GitHub repository is a curated list of JavaScript scripts and tools that can enhance your digital marketing efforts. Whether you're a digital marketer, SEO specialist, content creator, or web developer, you'll find a collection of scripts here to help you optimize your campaigns, improve website performance, and enhance the user experience.
 
@@ -88,67 +89,67 @@ Open source option: https://github.com/aws-samples/amazon-ivs-ugc-platform-web-d
 
 22. **Competitor Analysis Tool:** Compare website metrics with competitors.
 
-Open source option: 
+Open source option: https://github.com/ExcitingTheory/amplify-spiders-v1
 
 23. **Affiliate Link Manager:** Manage and track affiliate marketing links.
 
-Open source option: 
+Open source option: https://github.com/0x7An/affiliate-marketing-api and https://github.com/0x7An/affiliate-marketing-dashboard
 
 24. **Customer Persona Generator:** Help define customer personas for marketing.
 
-Open source option: 
+Open source option: --Add Yours--
 
 25. **Ad Campaign ROI Calculator:** Calculate the return on investment for ad campaigns.
 
-Open source option: 
+Open source option: https://github.com/pub-calculator-io/roi-calculator
 
 26. **Customer Testimonial Request Form:** Simplify the process of requesting testimonials.
 
-Open source option: 
+Open source option: https://github.com/guastallaigor/vue-testimonials
 
 27. **Influencer Marketing Calculator:** Calculate the potential reach and ROI of influencers.
 
-Open source option: 
+Open source option: --Add Yours--
 
 28. **Facebook Pixel Integration:** Assist with the setup of Facebook pixel tracking.
 
-Open source option: 
+Open source option: https://github.com/manucaralmo/GlowCookies
 
 29. **Coupon Code Generator:** Generate unique coupon codes for promotions.
 
-Open source option: 
+Open source option: https://github.com/voucherifyio/voucher-code-generator-js
 
 30. **Content Sharing Scheduler:** Schedule content sharing across social media platforms.
 
-Open source option: 
+Open source option: Can be modified from https://github.com/abhinav822/NODE_EVENT-SCHEDULER
 
 31. **SEO Meta Tag Generator:** Generate title and meta descriptions for pages.
 
-Open source option: 
+Open source option: https://github.com/shashiirk/social-tags
 
 32. **Customer Review Aggregator:** Collect and display customer reviews from various platforms.
 
-Open source option: 
+Open source option: https://github.com/brlee19/review-aggregator
 
 33. **Marketing Funnel Tracker:** Visualize and track the sales funnel.
 
-Open source option: 
+Open source option: --Add Yours--
 
 34. **Ad Banner Rotator:** Rotate ad banners on the website.
 
-Open source option: 
+Open source option: https://github.com/jssor/slider
 
 35. **SERP Rank Checker:** Check website rankings on search engine result pages.
 
-Open source option: 
+Open source option: https://github.com/christophebe/serp
 
 36. **Email Marketing Campaign Preview:** Preview emails across various email clients.
 
-Open source option: 
+Open source option: https://github.com/Mailtrain-org/mailtrain
 
 37. **Event Countdown Timer:** Create timers for upcoming marketing events.
 
-Open source option: 
+Open source option: https://github.com/VincentLoy/simplyCountdown.js
 
 38. **Newsletter Signup Form:** Customize and embed newsletter signup forms.
 
